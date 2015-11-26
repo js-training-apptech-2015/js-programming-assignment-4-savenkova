@@ -26,5 +26,5 @@ function define(['text!my.text.file.txt', 'image!logo.png'], function(text, imag
 ```
 
 References:
-* [<SCRIPT>](https://developer.mozilla.org/ru/docs/Web/HTML/Element/script)
-* [Promise](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+[SCRIPT](https://developer.mozilla.org/ru/docs/Web/HTML/Element/script)
+[Promise](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Promise)
