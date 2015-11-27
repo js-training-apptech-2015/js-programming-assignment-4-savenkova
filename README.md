@@ -73,5 +73,5 @@ function define(['text!my.text.file.txt', 'image!logo.png'], function(text, imag
 ## References:
 * [Function Overloading](https://en.wikipedia.org/wiki/Function_overloading)
 * [Array.prototype.fill](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/fill)
-* [<SCRIPT>](https://developer.mozilla.org/ru/docs/Web/HTML/Element/script)
+* [SCRIPT](https://developer.mozilla.org/ru/docs/Web/HTML/Element/script)
 * [Promise](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Promise)
