@@ -12,7 +12,7 @@ function get() {
 }
 function set(x) {
     this._value = x;
-]
+}
 o.overload('value', get);
 o.overload('value', set);
 
